@@ -25,9 +25,9 @@ theme:
   favicon: assets/img/sfe-logo.png
 
   # Page Font
-  font: false
-    # text: Roboto
-    # code: Roboto Mono
+  font:
+    text: Roboto
+    code: Roboto Mono
 
 
   # Features to Include (ref. theme documentation)
@@ -259,8 +259,8 @@ markdown_extensions:
       # Adds support for a glossary of abbreviations
       auto_append:
         # - https://raw.githubusercontent.com/santaimpersonator/git-test/main/glossary-sparkfun.md
-        - glossary-sparkfun.md
-        - glossary-local.md
+        # - glossary-sparkfun.md
+        # - glossary-local.md
 
   # Allows embedding of code blocks in other elements
   - pymdownx.superfences:
