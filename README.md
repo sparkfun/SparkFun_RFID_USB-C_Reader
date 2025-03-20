@@ -25,7 +25,7 @@ With the exclusion of the ID-3XX RFID modules, which requires an external antenn
 Documentation
 --------------
 - **[Hookup Guide (mkdocs)](http://docs.sparkfun.com/SparkFun_RFID_USB-C_Reader/)** - The hookup guide for the SparkFun RFID USB-C Reader hosted by GitHub pages.<br>
-  [![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/) [![GitHub Pages Deploy](https://github.com/sparkfun/SparkFun_RFID_USB-C_Reader/actions/workflows/generate_documentation.yml/badge.svg)](https://github.com/sparkfun/SparkFun_RFID_USB-C_Reader/actions/workflows/generate_documentation.yml)
+  [![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/) [![GitHub Pages Deploy](https://github.com/sparkfun/SparkFun_RFID_USB-C_Reader/actions/workflows/build_documentation.yml/badge.svg)](https://github.com/sparkfun/SparkFun_RFID_USB-C_Reader/actions/workflows/build_documentation.yml)
 
   *Need to download or print our hookup guide?*
 
